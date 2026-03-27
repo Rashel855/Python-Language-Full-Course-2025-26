@@ -1,0 +1,3 @@
+Property
+
+we use @Property decorator on any method in the class to use as a Property.

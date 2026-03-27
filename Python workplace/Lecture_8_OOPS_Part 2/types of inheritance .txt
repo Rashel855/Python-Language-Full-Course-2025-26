@@ -1,0 +1,14 @@
+Types of Inheritance
+
+1. Single Inheritance
+
+Based (parent) ---> Derived(child)
+
+2. Multi-level Inheritance
+
+Based (parent) ---> Derived(child(parent))---> Derived(child)
+
+3. Multiple Inheritance
+
+Based 1(parent1) ---> Derived(child)
+Based 2(parent2) ---> Derived(child)

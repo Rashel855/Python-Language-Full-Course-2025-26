@@ -1,0 +1,9 @@
+Class Method
+A Class Method is bound to the Class & receives the Class as an implicit first argument.
+Note - static method can't access or modify Class state & generally for utility.
+
+
+class Student:
+    @classmethod  #decorator
+    def college(cls):
+        pass

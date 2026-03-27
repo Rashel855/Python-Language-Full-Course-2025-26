@@ -1,0 +1,11 @@
+Polymorphism: Operator Overloading
+
+when the same Operator is allowed to have different meaning according to the context
+
+Operator & Dunder function
+
++ ---> __add__
+- ---> __sub__
+* ---> __mul____
+/ ---> __truediv____
+% --->  __mod____
